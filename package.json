@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bcomnes/esformatter-standard",
   "dependencies": {
+    "mout": "^0.11.0",
     "standard-format": "^1.2.0"
   }
 }
