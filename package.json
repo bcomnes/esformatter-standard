@@ -1,0 +1,22 @@
+{
+  "name": "esformatter-standard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover tape test/*.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bcomnes/esformatter-standard.git"
+  },
+  "author": "Bret Comnes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bcomnes/esformatter-standard/issues"
+  },
+  "homepage": "https://github.com/bcomnes/esformatter-standard",
+  "dependencies": {
+    "standard-format": "^1.2.0"
+  }
+}
